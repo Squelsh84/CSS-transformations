@@ -2,5 +2,5 @@
     width: 100px;
     height: 100px;
     background-color: #e84610;
-    transform: transate(100px, 100px);
+    transform: translate(100px, 100px);
 }
